@@ -1,2 +1,2 @@
 # EyeControl
-An eye control application made with openCV
+An eye control application attempt made with openCV
